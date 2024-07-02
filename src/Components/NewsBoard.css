@@ -2,3 +2,43 @@
     margin-left: 50px;
     width: 1800px;
 }
+.btn btn-dark{
+    position: absolute;
+    margin-top: 200px;
+}
+p{
+    display: inline-block;
+    font-size: large;
+    position: relative;
+    margin-top: 5px;
+    font-style: normal;
+    margin-left: 30px;
+}
+
+
+.navbar navbar-expand-lg bg-body-tertiary
+{
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+
+.navbar-brand{
+    background-color: rgba(238, 193, 47, 0.806);
+}
+
+.container-fluid :hover{
+color : rgba(238, 193, 47, 0.806);
+
+}
+.container-fluid{
+    text-decoration: underline;
+}
+
+.navbar-brand-1{
+    color : #fff;
+    background-color: rgba(8, 193, 17, 0.806);
+}
+.nav-item{
+    margin-left: 350px;
+}
