@@ -2,3 +2,87 @@
     margin-left: 50px;
     width: 1800px;
 }
+.btn btn-dark{
+    position: absolute;
+    margin-top: 200px;
+}
+p{
+    display: inline-block;
+    font-size: large;
+    position: relative;
+    margin-top: 5px;
+    font-style: normal;
+    margin-left: 30px;
+}
+
+
+.navbar navbar-expand-lg bg-body-tertiary
+{
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+
+.navbar-brand{
+   
+}
+
+.container-fluid :hover{
+color : rgba(238, 193, 47, 0.806);
+
+}
+.container-fluid{
+    text-decoration: underline;
+}
+
+.navbar-brand-1{
+    color : #fff;
+    background-color: rgba(8, 193, 17, 0.806);
+}
+.nav-item{
+    margin-left: 350px;
+}
+
+
+.img1{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-left: 1px;
+}
+
+.image1{   
+    width: 1050px;
+    height: 500px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+.image1:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s;
+}
+.pi{
+    margin-top: 30px;
+}
+
+.button{
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.image2{
+    width: 1050px;
+    height: 500px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.image-container-9{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.image-container-9:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s;
+}
